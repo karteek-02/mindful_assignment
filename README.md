@@ -1,5 +1,5 @@
 ## Installation
-- git clone 
+- git clone https://github.com/karteek-02/mindful_assignment
 - `npm install`
 - Create a `.env` file.
 - `npm start` to run the project.
